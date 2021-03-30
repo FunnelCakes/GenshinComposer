@@ -1,0 +1,10 @@
+D:\Source\repos\GenshinComposer\GenshinComposer\bin\Debug\GenshinComposer.exe.config
+D:\Source\repos\GenshinComposer\GenshinComposer\bin\Debug\GenshinComposer.exe
+D:\Source\repos\GenshinComposer\GenshinComposer\bin\Debug\GenshinComposer.pdb
+D:\Source\repos\GenshinComposer\GenshinComposer\obj\Debug\GenshinComposer.csprojAssemblyReference.cache
+D:\Source\repos\GenshinComposer\GenshinComposer\obj\Debug\GenshinComposer.Form1.resources
+D:\Source\repos\GenshinComposer\GenshinComposer\obj\Debug\GenshinComposer.Properties.Resources.resources
+D:\Source\repos\GenshinComposer\GenshinComposer\obj\Debug\GenshinComposer.csproj.GenerateResource.cache
+D:\Source\repos\GenshinComposer\GenshinComposer\obj\Debug\GenshinComposer.csproj.CoreCompileInputs.cache
+D:\Source\repos\GenshinComposer\GenshinComposer\obj\Debug\GenshinComposer.exe
+D:\Source\repos\GenshinComposer\GenshinComposer\obj\Debug\GenshinComposer.pdb
